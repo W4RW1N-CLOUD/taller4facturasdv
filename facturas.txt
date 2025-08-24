@@ -1,0 +1,5 @@
+Factura N°: 0001
+Cliente: Armando Paredes
+Monto: $250,50
+Fecha: 02/12/2023
+-------------------------------
